@@ -11,9 +11,6 @@ This is a simple web-based game that uses **JavaScript and the DOM** to simulate
    - 🎯 If **Player 2’s dice roll** is higher, they win.  
    - 🤝 If both rolls are the same, it’s a **draw**.  
 
-## 🔥 Technologies Used  
-- **HTML** – To structure the webpage.  
-- **CSS** – For styling and layout.  
-- **JavaScript (DOM Manipulation)** – To handle dice rolls, update images, and display the result dynamically.  
-
 🚀 **Enjoy rolling the dice!** 🎲
+
+You can view this website here : https://omryuo.github.io/Dice-roll-1v1/
